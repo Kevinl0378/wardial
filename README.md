@@ -1,6 +1,6 @@
 # Wardial
 
-![](https://github.com/evinl0378/wardial/workflows/task1/badge.svg)
+![](https://github.com/Kevinl0378/wardial/workflows/task1/badge.svg)
 ![](https://github.com/Kevinl0378/wardial/workflows/task2/badge.svg)
 
 
